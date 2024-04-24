@@ -80,3 +80,4 @@ Pirority Listing
 Unlimited Matches & Messages
 Unlimited App Usage
 # tindog
+# tindog-app
